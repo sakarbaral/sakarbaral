@@ -20,4 +20,4 @@ I'm a passionate **Full-Stack Software Developer** who enjoys solving problems, 
   - **Golang**, **React**, **Express.js**, **Kubernetes**, and **microservices**.
   - Integrating **WebRTC** for real-time apps.
 
-![](https://komarev.com/ghpvc/?username=sakarbaral)
+![](https://komarev.com/ghpvc/?username=sakarbaral&style=flat-square&color=orange)
