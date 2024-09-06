@@ -2,6 +2,9 @@
 
 I'm a passionate **Full-Stack Software Developer** who enjoys solving problems, building scalable applications, and continuously learning new technologies. Here's a little about me:
 
+![](https://komarev.com/ghpvc/?username=sakarbaral&style=flat-square&color=orange)
+
+
 - 🔭 I’m currently working on:  
   - A **Next.js** app with **SSR** .
 
@@ -20,4 +23,3 @@ I'm a passionate **Full-Stack Software Developer** who enjoys solving problems, 
   - **Golang**, **React**, **Express.js**, **Kubernetes**, and **microservices**.
   - Integrating **WebRTC** for real-time apps.
 
-![](https://komarev.com/ghpvc/?username=sakarbaral&style=flat-square&color=orange)
