@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I'm a passionate **Full-Stack Software Developer** who enjoys solving problems, building scalable applications, and continuously learning new technologies. Here's a little about me:
-
 ![](https://komarev.com/ghpvc/?username=sakarbaral&style=flat-square&color=orange)
 
+
+I'm a passionate **Full-Stack Software Developer** who enjoys solving problems, building scalable applications, and continuously learning new technologies. Here's a little about me:
 
 - 🔭 I’m currently working on:  
   - A **Next.js** app with **SSR** .
